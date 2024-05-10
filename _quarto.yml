@@ -3,11 +3,11 @@ project:
   output-dir: _site
 
 website:
-  title: "Drew Dimmery"
-  description: "Personal website of Drew Dimmery"
-  site-url: https://ddimmery.com
-  repo-url: https://github.com/ddimmery/quarto-website
-  google-analytics: "G-Y7YLFF5F90"
+  title: "Brian Reschke"
+  description: "Personal website of Brian Reschke"
+  site-url: https://brianreschke.com
+  repo-url: https://github.com/breschke/professional-website
+  # google-analytics: "G-Y7YLFF5F90"
   open-graph: true
   favicon: favicon.png
   twitter-card: 
@@ -24,6 +24,7 @@ website:
       - href: research.qmd
       - href: software.qmd
       - href: blog.qmd
+      - href: slides.qmd
 
 format:
   html:

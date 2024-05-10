@@ -15,30 +15,30 @@ I am an [Assistant Professor of Entrepreneurship](https://marriott.byu.edu/direc
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-**New York University**  
-PhD in Political Methodology  
-Advisors: Cyrus Samii, Neal Beck, Josh Tucker
+**University of California, Berkeley**  
+PhD and MSci in Business Administration
+<!-- Advisors: Cyrus Samii, Neal Beck, Josh Tucker -->
 :::
 ::: {.text-end}
-New York, NY  
-Granted May 2016
+Berkeley, CA  
+2015, 2012
 :::
 :::
-- Dissertation: *Essays on Causal Inference and Machine Learning with Application to Nonprofits*
-- Winner of 2015 Williams Award for Best Dissertation Proposal in Political Methodology from the Society of Political Methodology
+<!-- - Dissertation: *Essays on Causal Inference and Machine Learning with Application to Nonprofits*
+- Winner of 2015 Williams Award for Best Dissertation Proposal in Political Methodology from the Society of Political Methodology -->
 
 ::: {.d-flex .justify-content-between}
 ::: {}
-**UNC Chapel Hill**  
-B.A. in International and Area Studies with distinction
+**Brigham Young University**  
+BS in Management, Organizational Behavior emphasis
 :::
 ::: {.text-end}
-Chapel Hill, NC  
-Granted June 2010
+Provo, UT  
+2010
 :::
 :::
 
-### Experience
+<!-- ### Experience
 
 ::: {.d-flex .justify-content-between}
 ::: {}
@@ -170,4 +170,4 @@ Introduction to R for NYU Datalab
 ::: {.text-end}
 January 2013
 :::
-:::
+::: -->

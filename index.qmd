@@ -1,6 +1,6 @@
 ---
-title: "Drew Dimmery"
-description: "Methods in Causal Inference, Data Science and Social Science"
+title: "Brian Reschke"
+description: "Social Evaluation of Innovation and Entrepreneurship"
 page-layout: full
 image: /social-card.jpg
 resources:
@@ -9,13 +9,13 @@ resources:
 
 ::: {.column-page-inset}
 ::: {.column-page-inset-left}
-I am the [Professor of Data Science for the Common Good](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/dimmery) at the [Hertie School](https://www.hertie-school.org/en/)'s [Data Science Lab](https://www.hertie-school.org/en/datasciencelab).
+<!-- I am the [Professor of Data Science for the Common Good](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/dimmery) at the [Hertie School](https://www.hertie-school.org/en/)'s [Data Science Lab](https://www.hertie-school.org/en/datasciencelab).
 
 I previously worked on the Adaptive Experimentation team at Facebook Core Data Science in New York, and at the Research Network Data Science at the University of Vienna.
 
 My research focuses on the intersection of machine learning and causal inference. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I’m also interested in better applying the machinery of machine learning to observational causal inference.
 
-I’m most interested in methodological research useful for the study of social phenomena.
+I’m most interested in methodological research useful for the study of social phenomena. -->
 :::
 
 <div class="column-margin column-container">
@@ -27,27 +27,27 @@ I’m most interested in methodological research useful for the study of social 
 
 ::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="https://twitter.com/DrewDim" target="_blank" rel="noopener noreferrer">
+<!-- <a class="btn btn-outline-dark", href="https://twitter.com/DrewDim" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
-</a>
+</a> -->
 
-<a class="btn btn-outline-dark", href="https://github.com/ddimmery" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://github.com/breschke" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-github" role='img' aria-label='Github'></i>
 </a>
 
-<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/drew-dimmery/" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/brian-reschke/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
 </a>
 
-<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=qMfnm48AAAAJ" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=seDffREAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i>
 </a>
 
-<a class="btn btn-outline-dark", href="https://arxiv.org/a/dimmery_d_1.html" target="_blank" rel="noopener noreferrer">
+<!-- <a class="btn btn-outline-dark", href="https://arxiv.org/a/dimmery_d_1.html" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-arxiv" role='img' aria-label='arXiv'></i>
-</a>
+</a> -->
 
-<a class="btn btn-outline-dark", href="mailto:pddimmery@gmail.com" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:brianreschke@byu.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='email'></i>
 </a>
 ```
