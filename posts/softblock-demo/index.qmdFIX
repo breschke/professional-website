@@ -9,6 +9,7 @@ categories:
   - demo
 code-fold: true
 image: /posts/softblock-demo/three-designs.jpg
+draft: true
 ---
 
 
@@ -121,7 +122,11 @@ inner_join(results_agg, shapes, by=c('County'='county_nam', 'Precinct'='prec_id'
 DT::datatable(df_joined %>% sample_n(size=100) %>% dplyr::select(-geometry), rownames = FALSE, options=list(scrollX=TRUE, autoWidth = TRUE))
 ```
 
-## Add some geographic features
+## Add some geographic features (yeah right)
+
+:::{.column-margin}
+Testing
+:::
 
 ```{r geog_features}
 df_joined$geometry %>%

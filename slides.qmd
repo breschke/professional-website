@@ -1,7 +1,7 @@
 ---
 title: "Slides"
 listing:
-  contents: posts
+  contents: slides
   sort: "date desc"
   type: default
   categories: true

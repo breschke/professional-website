@@ -9,7 +9,7 @@ categories:
   - data science
   - misc
 code-fold: true
-image: /posts/quarto-website/tobias-meme.jpg
+# image: /posts/quarto-website/tobias-meme.jpg
 draft: true
 ---
 

@@ -1,9 +1,16 @@
 [
   {
+    "listing": "/slides.html",
+    "items": [
+      "/slides/0401_01/0401_01.html",
+      "/slides/f500slides/researchweek.html",
+      "/slides/0401_00/0401_00.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
-      "/posts/quarto-website/index.html",
-      "/posts/softblock-demo/index.html"
+      "/posts/quarto-website/index.html"
     ]
   }
 ]

@@ -1,23 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brianreschke.com/index.html</loc>
-    <lastmod>2024-05-10T17:41:36.851Z</lastmod>
+    <loc>https://brianreschke.com/slides/f500slides/researchweek.html</loc>
+    <lastmod>2024-05-13T19:00:28.952Z</lastmod>
   </url>
   <url>
-    <loc>https://brianreschke.com/about.html</loc>
-    <lastmod>2024-05-10T18:32:37.574Z</lastmod>
+    <loc>https://brianreschke.com/index.html</loc>
+    <lastmod>2024-05-10T18:43:09.688Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brianreschke.com/slides.html</loc>
+    <lastmod>2024-05-13T16:22:28.268Z</lastmod>
   </url>
   <url>
     <loc>https://brianreschke.com/research.html</loc>
     <lastmod>2024-05-10T16:59:14.980Z</lastmod>
   </url>
   <url>
+    <loc>https://brianreschke.com/about.html</loc>
+    <lastmod>2024-05-10T18:49:46.341Z</lastmod>
+  </url>
+  <url>
     <loc>https://brianreschke.com/software.html</loc>
     <lastmod>2024-05-10T16:59:19.788Z</lastmod>
   </url>
   <url>
+    <loc>https://brianreschke.com/slides/0401_00/0401_00.html</loc>
+    <lastmod>2024-05-13T18:12:56.304Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brianreschke.com/slides/0401_00/researchweek.html</loc>
+    <lastmod>2024-05-13T17:51:43.623Z</lastmod>
+  </url>
+  <url>
     <loc>https://brianreschke.com/blog.html</loc>
     <lastmod>2024-05-10T16:59:12.320Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brianreschke.com/slides/0401_01/0401_01.html</loc>
+    <lastmod>2024-05-13T18:38:44.087Z</lastmod>
   </url>
 </urlset>

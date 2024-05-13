@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Brian Reschke</title>
+<link>https://brianreschke.com/slides.html</link>
+<atom:link href="https://brianreschke.com/slides.xml" rel="self" type="application/rss+xml"/>
+<description>Personal website of Brian Reschke</description>
+<generator>quarto-1.4.553</generator>
+<lastBuildDate>Mon, 13 May 2024 19:00:30 GMT</lastBuildDate>
+<item>
+  <title></title>
+  <dc:creator>Brian P. Reschke\inst{1}</dc:creator>
+  <link>https://brianreschke.com/slides/0401_01/0401_01.html</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>teaching</category>
+  <guid>https://brianreschke.com/slides/0401_01/0401_01.html</guid>
+  <pubDate>Mon, 13 May 2024 19:00:30 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Chad Carlos\inst{1}</dc:creator>
+  <dc:creator>Yasir DeWan\inst{2}</dc:creator>
+  <dc:creator>Ben E. Lewis\inst{3}</dc:creator>
+  <dc:creator>Brian Reschke\inst{4}</dc:creator>
+  <dc:creator>Isaac StClair\inst{5}</dc:creator>
+  <link>https://brianreschke.com/slides/f500slides/researchweek.html</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>research</category>
+  <guid>https://brianreschke.com/slides/f500slides/researchweek.html</guid>
+  <pubDate>Mon, 13 May 2024 19:00:30 GMT</pubDate>
+  <media:content url="https://brianreschke.com/slides/img/fig2.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Brian P. Reschke\inst{1}</dc:creator>
+  <link>https://brianreschke.com/slides/0401_00/0401_00.html</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>teaching</category>
+  <guid>https://brianreschke.com/slides/0401_00/0401_00.html</guid>
+  <pubDate>Mon, 13 May 2024 19:00:30 GMT</pubDate>
+</item>
+</channel>
+</rss>

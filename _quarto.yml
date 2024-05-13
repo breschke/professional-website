@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "*.png"
 
 website:
   title: "Brian Reschke"
@@ -22,9 +24,10 @@ website:
         text: Home
       - href: about.qmd
       - href: research.qmd
-      - href: software.qmd
-      - href: blog.qmd
+      # - href: software.qmd
+      # - href: blog.qmd
       - href: slides.qmd
+        text: "Slides"
 
 format:
   html:
